@@ -1,0 +1,6 @@
+framework module Pods_Go_Dive_Red_Sea {
+  umbrella header "Pods-Go Dive Red Sea-umbrella.h"
+
+  export *
+  module * { export * }
+}

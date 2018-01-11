@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>prog1</key>
+	<dict>
+		<key>ProgramName</key>
+		<string>1. Daily Services</string>
+		<key>sub1</key>
+		<array>
+			<string>1. Snorkeling</string>
+			<string>&lt;html&gt;&lt;body&gt;&lt;strong&gt;Program Explanation:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Daily snorkeling trip, our boat will take you to 2 fantastic dive sites nearby Hurghada, Red Sea. At the dive site, you will have the opportunity to swim and snorkeling around amazing Red Sea dive site which is fish-filled coral and clear underwater world.&lt;/p&gt;
+        &lt;p&gt;Or relax and take rest unwind in salon or sun bathe on deck.&lt;/p&gt;
+        &lt;p&gt;Our experienced diving and snorkeling instructors will explain you and tell you the specifics of the dive sites, so that you can enjoy beauty of underwater world and relaxing day.&lt;/p&gt;
+        &lt;p&gt;Lunch will be served on-board during the trip.&lt;/p&gt;
+        &lt;p&gt;After staying at 2 different sites you will return to the port and then back to the center.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;What is Included:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; Snorkeling at the 2 excellent Red Sea Diving Sites (1 day boat trip).&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Snorkeling Safety Instruction&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Snorkeling equipment (Mask, snorkel and Fins) / (Mask, Snorkel, Fins and Wet Suits)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Lunch and complimentary drinks (+ juice, water and some sweets)&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;Price:  20 Euro&lt;/font&gt;&lt;/b&gt; (with Mask, snorkel and fins) /  &lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;25 Euro&lt;/font&gt;&lt;/b&gt; (with Mask, Snorkel, Fins and Wet suits)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+			<string>Snorkeling_01</string>
+			<string>Snorkeling_02</string>
+		</array>
+		<key>sub2</key>
+		<array>
+			<string>2. Introductory diving</string>
+			<string>&lt;html&gt;&lt;body&gt;&lt;strong&gt;Program Explanation:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This program is for inexperienced divers or who doesn\&apos;t have diving certificate and like to try Scuba diving.&lt;/p&gt;
+        &lt;p&gt;In the morning, our boat will take you to 2 fantastic dive sites near by Hurghada,  Red Sea.&lt;/p&gt;
+        &lt;p&gt;Our experienced diving instructors will do small dive lecture  on the way to the excellent Red Sea Dive site.&lt;/p&gt;
+        &lt;p&gt;At the dive site, our experienced instructors will explain you and tell you the specifics of the diving site.&lt;/p&gt;
+        &lt;p&gt;Then guide you 2 dives with professional guidance, so that you can enjoy amazing Red Sea diving gently, safely and easily in relaxing atmosphere.&lt;/p&gt;
+        &lt;p&gt;Between the 2 dives,  you can take rest unwind or sun bathe on deck.  Or may be swim or snorkeling around the dive site if you want to.&lt;/p&gt;
+        &lt;p&gt;Lunch will be served on-board  during the trip.&lt;/p&gt;
+        &lt;p&gt;After diving at 2 different dive sites you will return to the port, then back to the center  and we provide underwater pictures we got the day.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;What is Included:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; 2 Introductory dives.&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Diving lecture on the way to the site.&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Diving Safety Guidance&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Tanks and weights (without diving equipment rental) / (with diving equipment rental)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; underwater pictures&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Lunch and complimentary drinks (+ juice, water and some sweets)&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;Price:  45 Euro&lt;/font&gt;&lt;/b&gt; (without Equipment rental) / &lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;60 Euro&lt;/font&gt;&lt;/b&gt; (with Rental Equipment)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+			<string>Introductory_01</string>
+			<string>Introductory_02</string>
+		</array>
+		<key>sub3</key>
+		<array>
+			<string>3. Check Dive</string>
+			<string>&lt;html&gt;&lt;body&gt;&lt;strong&gt;Program Explanation:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This program is for who has Diving Certificate (certified diver such as Open Water or higher level)  didn\&apos;t dive for a while  and be concerned about his diving skills.&lt;/p&gt;
+        &lt;p&gt;In the morning, our boat will take you to 2 fantastic dive sites near by Hurghada,  Red Sea.&lt;/p&gt;
+        &lt;p&gt;You  will have enough time to talk about diving and diving skills which you concern with our experienced diving Instructor  on the way to the excellent Red Sea Dive site.&lt;/p&gt;
+        &lt;p&gt;At the dive site, our diving instructor will explain you and tell you  the specifics  of  the diving sitet and diving skills you are going to do.&lt;/p&gt;
+        &lt;p&gt;You will try and practice diving skills slowly with our Instructor supervising till you feel comfortable to do the skill,  and then you continue diving as fun.&lt;/p&gt;
+        &lt;p&gt;For the 2nd dive, you will dive as fun dive  with professional guidance, so that you can enjoy amazing Red Sea diving safely and easily in relaxing atmosphere.&lt;/p&gt;
+        &lt;p&gt;Between the 2 dives,  you can take rest unwind or sun bathe on deck.  Or may be swim or snorkeling around the dive site if you want to.&lt;/p&gt;
+        &lt;p&gt;Lunch will be served on-board  during the trip.&lt;/p&gt;
+        &lt;p&gt;After diving at 2 different dive sites you will return to the port, then back to the center  and we provide underwater pictures we got the day.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;What is Included:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt;2 boat dives.&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Diving lecture on the way to the site.&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Diving Safety Guidance.&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Tanks and weights   (without diving equipment rental) / (with diving equipment rental).&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; underwater pictures.&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Lunch and complimentary drinks (+ juice, water and some sweets)&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;Price:  45 Euro&lt;/font&gt;&lt;/b&gt; (without Equipment rental) / &lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;60 Euro&lt;/font&gt;&lt;/b&gt; (with Rental Equipment)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+			<string>CheckDive_01</string>
+			<string>CheckDive_02</string>
+		</array>
+		<key>sub4</key>
+		<array>
+			<string>4. Fun Dive</string>
+			<string>&lt;html&gt;&lt;body&gt;&lt;strong&gt;Program Explanation:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This program is for who has Diving Certificate (certified diver such as Open Water or higher level).&lt;/p&gt;
+        &lt;p&gt;In the morning, our boat will take you to 2 fantastic dive sites near by Hurghada,  Red Sea.&lt;/p&gt;
+        &lt;p&gt;You  will have time to enjoy the views of the Red Sea and Hurghada city  on the way to the excellent Red Sea Dive site. &lt;/p&gt;
+        &lt;p&gt;At the dive site, our diving instructor will explain you and tell you  the specifics  of  the diving site and diving skills you may need during the dive.&lt;/p&gt;
+        &lt;p&gt;Then guide you 2 dives with professional guidance, so that you can enjoy amazing Red Sea diving  safely and easily in relaxing atmosphere.&lt;/p&gt;
+        &lt;p&gt;Between the 2 dives,  you can take rest unwind or sun bathe on deck.  Or may be swim or snorkeling around the dive site if you want to.&lt;/p&gt;
+        &lt;p&gt;Lunch will be served on-board  during the trip.&lt;/p&gt;
+        &lt;p&gt;After diving at 2 different dive sites you will return to the port, then back to the center  and we provide underwater pictures we got the day.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;What is Included:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; 2 boat dives.&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Diving Safety Guidance.&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Tanks and weights   (without diving equipment rental) / (with diving equipment rental)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; underwater pictures.&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Lunch and complimentary drinks (+ juice, water and some sweets)&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;Price:  35 Euro&lt;/font&gt;&lt;/b&gt; (without Equipment rental) / &lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;50 Euro&lt;/font&gt;&lt;/b&gt; (with Rental Equipment)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+			<string>FunDive_01</string>
+			<string>FunDive_02</string>
+		</array>
+		<key>sub5</key>
+		<array>
+			<string>5. Night Dive (Beach / Boat)</string>
+			<string>&lt;html&gt;&lt;body&gt;&lt;strong&gt;Program Explanation:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This program is for who has Diving Certificate (certified diver such as Advanced Open Water or higher level or Night Diver ).&lt;/p&gt;
+        &lt;p&gt;1 dive from beach or boat at the Red Sea dive site in Hurghada. Start diving after sun set.  &lt;/p&gt;
+        &lt;p&gt;In the afternoon,  the time close to sun set we take you to the a dive site.  And our diving instructor will explain you and tell you  the specifics  of  the diving site and diving skills you may need during the diving.&lt;/p&gt;
+        &lt;p&gt;Then you dive with professional guidance, so that you can enjoy your unforgettable experience of night diving safely and easily in relaxing atmosphere.&lt;/p&gt;
+        &lt;p&gt;Before or after dive, we provide you snacks and soft drink.&lt;/p&gt;
+        &lt;p&gt;After the diving , you will return to the dive center  and we provide underwater pictures if we got the during the diving.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;What is Included:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; 1  beach/ boat  dive.&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Diving Safety Guidance&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Tank and weights   (without diving equipment rental) / (with diving equipment rental)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Underwater picture (If the situation permits)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; snacks and  drinks.&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;Price:  30 Euro&lt;/font&gt;&lt;/b&gt; (without Equipment rental) / &lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;45 Euro&lt;/font&gt;&lt;/b&gt; (with Rental Equipment)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+			<string>NightDive_01</string>
+			<string>NightDive_02</string>
+		</array>
+	</dict>
+	<key>prog2</key>
+	<dict>
+		<key>ProgramName</key>
+		<string>2. Diving Courses</string>
+		<key>sub1</key>
+		<array>
+			<string>1. PADI Scuba Diver Course</string>
+			<string>&lt;html&gt;&lt;body&gt;&lt;strong&gt;Program Explanation:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This program is for who want to start learn diving but doesn\&apos;t have so much time, but want to be a Diver.&lt;/p&gt;
+        &lt;p&gt;In this course, we provide you first half of the PADI Open Water Diver Course.  With this Scuba Diver certificate, you are expected to dive with PADI professional (PADI divemaster or higher level) to a maximum depth of 12m /40ft.&lt;/p&gt;
+        &lt;p&gt;The course duration is 1-2 days, Basic diving theory, confined water dive skill training and 2 open water training dives at the excellent divesite in Hurghada Red Sea with our experienced Instructor, so that you can enjoy diving Red Sea and Red Sea fish even during the course.&lt;/p&gt;
+        &lt;p&gt;This course is intermediate step for complete Open Water Diver course,  you can get PADI Open Water Diver certificate when you complete another half of the course in certain time.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;To enroll in this course:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; Must be more than 10 years old or older. (If younger than 15, participants will enroll &quot;Jr. Scuba Diver Course&quot; ).&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; You need adequate swimming skills and need to be in good physical health.&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; No prior experience with scuba diving is required.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;What is Included:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; 1-2  days tuition (dive theory,  confined water skill training and 2 Open water training dives)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Diving safety Guidance (bliefing and debliefing, before and after every dive)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Use of full diving equipment &lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Tanks and weights   &lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Underwater picture (If the situation permits)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Lunch and complimentary drinks on board (+ juice, water and some sweets)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Additional cost:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; PADI Open Water Diver Manual  and Certification application Fee&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Medical certificate (If it\&apos;s necessary)&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;Price:  180 Euro&lt;/font&gt;&lt;/b&gt; (with use of basic scuba equipment)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+			<string>ScubaDiver_01</string>
+			<string>ScubaDiver_02</string>
+		</array>
+		<key>sub2</key>
+		<array>
+			<string>2. PADI Open Water Diver Course</string>
+			<string>&lt;html&gt;&lt;body&gt;&lt;strong&gt;Program Explanation:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This program is for who want to start learn scuba diving, like adventure and to see different world under water.&lt;/p&gt;
+        &lt;p&gt;And of course,  for sea lover. You will find many different amazing lives of Red Sea fish and creatures there.&lt;/p&gt;
+        &lt;p&gt;This course is world\&apos;s most popular and widely recognized scuba course.  Many divers learned scuba diving through this course and continue their adventure to discover the wonder of under water world.&lt;/p&gt;
+        &lt;p&gt;With this Scuba Diver certificate, you are expected to plan and act your dive  in the similar environment you trained till a maximum depth of 18 m / 60 ft.&lt;/p&gt;
+        &lt;p&gt;The course duration is 3-4 days, Basic diving theory, confined water dive skill training and 4 open water training dives at the excellent divesite in Hurghada Red Sea with our experienced Instructor, so that you can enjoy diving Red Sea and Red Sea fish even during the course.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;To enroll in this course:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; Must be more than 10 years old or older. (If younger than 15, participants will enroll &quot;Jr. Scuba Diver Course&quot; ).&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; You need adequate swimming skills and need to be in good physical health.&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; No prior experience with scuba diving is required.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;What is Included:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; 3-4  days tuition (dive theory,  confined water skill training and 4 Open water training dives)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt;Diving safety Guidance (bliefing and debliefing, before and after every dive)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt;Use of full diving equipment&lt;br /&gt;&lt;b&gt;*&lt;/b&gt;Tanks and weight&lt;br /&gt;&lt;b&gt;*&lt;/b&gt;Underwater picture (If the situation permits)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt;Lunch and complimentary drinks on board (+ juice, water and some sweets)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Additional cost:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; PADI Open Water Diver Manual  and Certification application Fee&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Medical certificate (If it\&apos;s necessary)&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;Price:  230 Euro&lt;/font&gt;&lt;/b&gt; (with use of basic scuba equipment)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+			<string>OpenWater_01</string>
+			<string>OpenWater_02</string>
+		</array>
+		<key>sub3</key>
+		<array>
+			<string>3. PADI Adventure Diver Course</string>
+			<string>&lt;html&gt;&lt;body&gt;&lt;strong&gt;Program Explanation:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This program can be a part of  PADI Advanced Open Water Diver Course.&lt;/p&gt;
+        &lt;p&gt;This course is for who has Open Water certificate and want to know about many different interest of the scuba diving.  You will take 3 adventure dives from the various adventure dives.&lt;/p&gt;
+        &lt;p&gt;Who like to take photo, may be interest to take photo underwater, then  try adventure underwater photographer dive.   Under water videography dive, drift dive, Fish identification dive, boat dive, navigation dive, peak performance buoyancy dive  and more, you can learn and try these adventure dives under our experienced instructor supervising.&lt;/p&gt;
+        &lt;p&gt;So that you will find more fun and  interest  of scuba diving in various adventure dives at the one of the best dive sites in the world, Red Sea.&lt;/p&gt;
+        &lt;p&gt;Each adventure dive may credit toward the first dive of the corresponding PADI Specialty Diver Course.&lt;/p&gt;
+        &lt;p&gt;With this Scuba Diver certificate, you are expected to plan and act your dive in the similar environment you trained with the confident till a maximum depth you  trained.&lt;/p&gt;
+        &lt;p&gt;The course duration is 1 day,  diving theory, 3  adventure dives at the excellent divesite in Hurghada Red Sea with our experienced Instructor, so that you can enjoy diving Red Sea and Red Sea fish even during the course.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;To enroll in this course:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; Who has PADI Open Water Diver certificate (or equivalent) Must be more than 10 years old or older. (If younger than 15, participants will enroll &quot;Jr. Adventure Diver Course&quot; ).&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Young divers may only take in certain adventures dives (please contact us).&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;What is Included:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; 1 days tuition (dive theory( check knowledge review), 3 adventure dives)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Diving safety Guidance (bliefing and debliefing, before and after every dive)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Use of full diving equipment &lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Tanks and weights&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Underwater picture (If the situation permits)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Lunch and complimentary drinks on board (+ juice, water and some sweets)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Additional cost:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; PADI Adventures in Diving program  Manual  and Certification application Fee&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Medical certificate (If it\&apos;s necessary)&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;Price:  160 Euro&lt;/font&gt;&lt;/b&gt; (with use of basic scuba equipment)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+			<string>AdventureDiver_01</string>
+			<string>AdventureDiver_02</string>
+		</array>
+		<key>sub4</key>
+		<array>
+			<string>4. PADI Advanced Open Water Diver Course</string>
+			<string>&lt;html&gt;&lt;body&gt;&lt;strong&gt;Program Explanation:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This program is designed to advance your diving. So you can start right after you get your PADI Open Water Diver certificate. The course helps you to build confidence and expand your scuba skills through different adventure dives.&lt;/p&gt;
+        &lt;p&gt;In this course,  you will take 5 adventure dives including &quot;Deep dive&quot; and Underwater &quot;Navigation dive&quot;, from the various adventure dives.&lt;/p&gt;
+        &lt;p&gt;You try different speciality dives and gaining experience under the supervision of our experienced Instructor.&lt;/p&gt;
+        &lt;p&gt;So that you will find more fun and  interest  of scuba diving in various adventure dives at the one of the best dive sites in the world, Red Sea.&lt;/p&gt;
+        &lt;p&gt;Each adventure dive may credit toward the first dive of the corresponding PADI Specialty Diver Course.&lt;/p&gt;
+        &lt;p&gt;With this Scuba Diver certificate, you are expected to plan and act your dive  in the similar environment you trained with the confident till a maximum depth of  30 m / 100 ft.&lt;/p&gt;
+        &lt;p&gt;The course duration is 2 days, diving theory, 5 adventure dives at the excellent divesite in Hurghada Red Sea with our experienced Instructor, so that you can enjoy diving Red Sea and Red Sea fish even during the course.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;To enroll in this course:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; Who has PADI Open Water Diver certificate (or equivalent) Must be more than 10 years old or older. (If younger than 15, participants will enroll &quot;Jr. Adventure Diver Course&quot; ).&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Young divers may only take in certain adventures dives (please contact us).&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; If you are already PADI Adventure Diver certified, you only need to complete 2 more adventure dives to apply PADI Advanced Open Water Diver certification.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;What is Included:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; 2 days tuition (dive theory( check knowledge review),  5 adventure  dives)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Diving safety Guidance (bliefing and debliefing, before and after every dive)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Use of full diving equipment &lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Tanks and weights   &lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Underwater picture (If the situation permits)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Lunch and complimentary drinks on board (+ juice, water and some sweets)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Additional cost:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; PADI Adventures in Diving program Manual and Certification application Fee&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Medical certificate (If it\&apos;s necessary)&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;Price:  210 Euro&lt;/font&gt;&lt;/b&gt; (with use of basic scuba equipment)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+			<string>AdvancedOpenWater_01</string>
+			<string>AdvancedOpenWater_02</string>
+		</array>
+		<key>sub5</key>
+		<array>
+			<string>5. PADI Rescue Diver Course</string>
+			<string>&lt;html&gt;&lt;body&gt;&lt;strong&gt;Program Explanation:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This program is said most challenging but most rewarding course.  because you learn to prevent and manage problems in the water and become more confident in your skills as a diver, knowing that you can help others if needed.&lt;/p&gt;
+        &lt;p&gt;This course is for who has PADI Advanced Open Water Diver or equivalent,  and prepares you to deal with dive emergencies, minor and major, using a variety of techniques. Through knowledge development and rescue exercises (Self rescue, recognizing and managing stress in other divers , emergency management and equipment, rescuing panicked divers, rescuing unresponsive divers).&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;To enroll in this course:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; Who has PADI (junior) Advanced Open Water Diver certificate (or equivalent  ). Must be more than 12 years old and who completed the underwater Navigation Adventure Dive. (If younger than 15, participants will enroll  &quot;Jr. Rescue Diver Course&quot; ).&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Emergency First Response Primary and Secondary Care training within 24months. You can complete this training during the Rescue Diver Course.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;What is Included:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; 3-4 days tuition (dive theory,   confined training dives, open water training  dives, accident scenarios)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Diving safety Guidance (bliefing and debliefing, before and after every dive)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Use of basic scuba diving equipment &lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Tanks and weights   &lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Lunch and complimentary drinks on board (+ juice, water and some sweets)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Additional cost:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; PADI Rescue Diver  Manual  and Certification application Fee&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Medical certificate (If it\&apos;s necessary)&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;Price:  250 Euro&lt;/font&gt;&lt;/b&gt; (with use of basic scuba equipment)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+			<string>Rescue_01</string>
+			<string>Rescue_02</string>
+		</array>
+		<key>sub6</key>
+		<array>
+			<string>6. PADI Divemaster Course</string>
+			<string>&lt;html&gt;&lt;body&gt;&lt;strong&gt;Program Explanation:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This course is for who love scuba diving and want to do as a career.&lt;/p&gt;
+        &lt;p&gt;This course is your first level of Professional training. Working closely with Instructors, you will learn more about dive skills, refine your rescue skills, so can deal with common problems easily and with self confident.&lt;/p&gt;
+        &lt;p&gt;In this course you will learn to be a leader and take charge of dive activities. Through knowledge development sessions and workshops and practical assessment. You will develop the skills to organize and manage scuba diving activities.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;To enroll in this course:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; Who has PADI Rescue Diver or equivalent and must be more than 18 years old.&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Emergency First Response Primary and Secondary care training within 24 months.&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; A medical statement signed by a physician within the last 12 month.&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; At least 40 logged dives to begin the course and 60 dives to earn certification.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;What is Included:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; 6 days or more tuition (dive theory, watermanship, confined training dives, open water training dives, accident scenarios, practical training  of  divemaster role)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Diving safety Guidance (bliefing and debliefing, before and after every dive)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Use of basic scuba diving equipment&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Tanks and weights   &lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Lunch and complimentary drinks on board (+ juice, water and some sweets)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Additional cost:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; PADI Divemaster  Manual, PADI Instructor Manual, Certification application Fee&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Medical certificate&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;Price:  400 Euro&lt;/font&gt;&lt;/b&gt; (with use of basic scuba equipment)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+			<string>Divemaster_01</string>
+			<string>Divemaster_02</string>
+		</array>
+		<key>sub7</key>
+		<array>
+			<string>7. CMAS / SSI / IDEA (Other Courses)</string>
+			<string>&lt;html&gt;&lt;body&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;We provide CMAS, SSI, IDEA courses as well.&lt;br /&gt;Please ask us for more details.&lt;/p&gt;&lt;/body&gt;&lt;/html</string>
+			<string>others_01</string>
+			<string>others_02</string>
+		</array>
+	</dict>
+	<key>prog3</key>
+	<dict>
+		<key>ProgramName</key>
+		<string>3. Specialty Courses (Diving Courses)</string>
+		<key>sub1</key>
+		<array>
+			<string>1. PADI Specialty Peak Performance Buoyancy Course</string>
+			<string>&lt;html&gt;&lt;body&gt;&lt;strong&gt;Program Explanation:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This program is for who want to improve their buoyancy control skill which makes you easy to stop and stay in the mid water, makes you  more relax and comfortable,  use less air and easily observe aquatic animals without disturbing their surroundings. We also recommend this course who want to be an Under water photography Diver and videographer.&lt;/p&gt;
+        &lt;p&gt;In this course, you will learn how to adjust and determine your weight for to be easier to control your buoyancy.  Learn how to trim your weight system and scuba gear to be better balanced in the water.  Learn how To keep stream line to save energy and use air efficiently and move smoothly in the water.&lt;/p&gt;
+        &lt;p&gt;The course duration is 1 days,   2 training dives at the excellent divesite in Hurghada Red Sea with our experienced Instructor, so that you can enjoy diving Red Sea and Red Sea fish even during the course.&lt;/p&gt;
+        &lt;p&gt;First dive of this course may credit as an Adventure dive toward your Advanced Open Water Diver certification.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;To enroll in this course:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; Must be more than 10 years old or older and who has PADI (Junior) Open Water Diver or higher.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;What is Included:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; 1 days tuition (dive  theory (check knowledge review in the manual),  2 Open water training dives)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Diving safety Guidance (bliefing and debliefing, before and after every dive)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Use of basic diving equipment &lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Tanks and weights&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Underwater picture (If the situation permits)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Lunch and complimentary drinks on board (+ juice, water and some sweets)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Additional cost:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; PADI Peak Performance Buoyancy Manual  and Certification application Fee&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Medical certificate (If it\&apos;s necessary)&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;Price:  110 Euro&lt;/font&gt;&lt;/b&gt; (with use of basic scuba equipment)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+			<string>SP_PeakPerformance_01</string>
+			<string>SP_PeakPerformance_02</string>
+		</array>
+		<key>sub2</key>
+		<array>
+			<string>2. PADI Specialty Wreck Diver Course</string>
+			<string>&lt;html&gt;&lt;body&gt;&lt;strong&gt;Program Explanation:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This program is for who like to adventure discovering the past, diving and see artificial or historical objects underwater. This course offers rewarding adventures while observing responsible wreck diving practices.&lt;/p&gt;
+        &lt;p&gt;In this course, you will learn to review guidelines for researching and respecting wrecks.  Safety considerations for navigating and exploring wrecks. Surveying and mapping wrecks, using penetration lines and reels to guide exploration, techniques to avoid kicking up silt or disturbing the wreck and its inhabitants.&lt;/p&gt;
+        &lt;p&gt;The course duration is 2 days,   4 training dives at the wreck in the Red Sea with our experienced Instructor, so that you can enjoy excellent wreck diving and Red Sea fish during the course.&lt;/p&gt;
+        &lt;p&gt;First dive of this course may credit as an Adventure dive toward your Advanced Open Water Diver certification.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;To enroll in this course:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; Must be more than 15 years old or older and who has PADI  Adventure Diver or higher.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;What is Included:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; 2 days tuition (dive  theory ,  4 Open water training dives)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Diving safety Guidance (bliefing and debliefing, before and after every dive)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Use of basic scuba equipment &lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Tanks and weights&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Underwater picture (If the situation permits)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Lunch and complimentary drinks on board (+ juice, water and some sweets)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Additional cost:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; PADI Wreck Diver Manual  and Certification application Fee&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Medical certificate (If it\&apos;s necessary)&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;Price:  180 Euro&lt;/font&gt;&lt;/b&gt; (with use of basic scuba equipment)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+			<string>SP_Wreck_01</string>
+			<string>SP_Wreck_02</string>
+		</array>
+		<key>sub3</key>
+		<array>
+			<string>3. PADI Specialty Boat Diver Course</string>
+			<string>&lt;html&gt;&lt;body&gt;&lt;strong&gt;Program Explanation:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This program is for the diver whether you\&apos;ve never dive from boat or you\&apos;ve made boat dive a lot. Because boats in various part of the world do things differently and most of the excellent scuba diving is access only by boat.&lt;/p&gt;
+        &lt;p&gt;Scuba diving is fun and relatively easy because you usually descend directly onto your dive site.&lt;/p&gt;
+        &lt;p&gt;In this course, you will expand your knowledge about different kind of boats, small inflatables to large liveaboards, and gain experience scuba diving by completing 2 dives from a boat.&lt;/p&gt;
+        &lt;p&gt;You will learn boat terminology, boat diving procedures and etiquette and boating safety.&lt;/p&gt;
+        &lt;p&gt;The course duration is 1 days,   2 training dives at the excellent divesite in Hurghada Red Sea with our experienced Instructor, so that you can enjoy diving Red Sea and Red Sea fish even during the course.&lt;/p&gt;
+        &lt;p&gt;First dive of this course may credit as an Adventure dive toward your Advanced Open Water Diver certification.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;To enroll in this course:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; Must be more than 10 years old or older and who has PADI (Junior) Open Water Diver or higher.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;What is Included:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; 1 days tuition (dive  theory,  2 Open water training dives)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Diving safety Guidance (bliefing and debliefing, before and after every dive)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Use of basic diving equipment&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Tanks and weights&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Underwater picture (If the situation permits)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Lunch and complimentary drinks on board (+ juice, water and some sweets)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Additional cost:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; PADI Boat Diver Manual  and Certification application Fee&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Medical certificate (If it\&apos;s necessary)&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;Price:  110 Euro&lt;/font&gt;&lt;/b&gt; (with use of basic scuba equipment)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+			<string>SP_Boat_01</string>
+			<string>SP_Boat_02</string>
+		</array>
+		<key>sub4</key>
+		<array>
+			<string>4. PADI Specialty Multilevel Diver Course</string>
+			<string>&lt;html&gt;&lt;body&gt;&lt;strong&gt;Program Explanation:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This program is for  who like to understand more about dive computers and learn how you can use tools like eRDPML to plan multilevel dives.&lt;/p&gt;
+        &lt;p&gt;In this course, you will review decompression theory as it relates to multilevel diving and dive computer models, and plan multilevel dives using eRDPL.&lt;/p&gt;
+        &lt;p&gt;In the first multilevel training dive, you\&apos;ll plan and execute a 2 level dive and the second multilevel training dive, you\&apos;ll complete a 3 level scuba dive.&lt;/p&gt;
+        &lt;p&gt;The course duration is 2 days,   2 training dives  ( + 2 more dives in optional) at the excellent divesite in Hurghada Red Sea with our experienced Instructor, so that you can enjoy diving Red Sea and Red Sea fish even during the course.&lt;/p&gt;
+        &lt;p&gt;First dive of this course may credit as an Adventure dive toward your Advanced Open Water Diver certification.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;To enroll in this course:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; Must be more than 12 years old or older and who has PADI (Junior) Open Water Diver or higher.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;What is Included:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; 2 days tuition (dive  theory,  2 Multilevel training dives + another 2 optional dives)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Diving safety Guidance (bliefing and debliefing, before and after every dive)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Use of basic diving equipment&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Tanks and weights&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Underwater picture (If the situation permits)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Lunch and complimentary drinks on board (+ juice, water and some sweets)&lt;/p&gt;
+        p&gt;&lt;strong&gt;Additional cost:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; PADI Multilevel Diver Manual  and Certification application Fee&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Medical certificate (If it\&apos;s necessary)&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;Price:  170 Euro&lt;/font&gt;&lt;/b&gt; (with use of basic scuba equipment)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+			<string>SP_MultilevelDiver_01</string>
+			<string>SP_MultilevelDiver_02</string>
+		</array>
+		<key>sub5</key>
+		<array>
+			<string>5. PADI Specialty Drift Diver Course</string>
+			<string>&lt;html&gt;&lt;body&gt;&lt;strong&gt;Program Explanation:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This program is teaching how to enjoy diving going with the current (flow) as you scuba dive down rivers and use ocean currents to glide along. You can feel like flying even though you\&apos;re underwater and using scuba equipment.  Drift diving is fun, relaxing and exhilarating at the same time.&lt;/p&gt;
+        &lt;p&gt;In this course, you will try drift diving techniques and procedures, receive an introduction to drift diving equipment, learn about aquatic currents, practice with buoyancy control, navigation and communication during the 2 training dives.&lt;/p&gt;
+        &lt;p&gt;You will also learn techniques for staying close to a buddy or together as a group as you float with the current.&lt;/p&gt;
+        &lt;p&gt;The course duration is 1 days, 2 training dives at the excellent divesite in Hurghada Red Sea with our experienced Instructor, so that you can enjoy diving Red Sea and Red Sea fish even during the course.&lt;/p&gt;
+        &lt;p&gt;First dive of this course may credit as an Adventure dive toward your Advanced Open Water Diver certification.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;To enroll in this course:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; Must be more than 12 years old or older and who has PADI (Junior) Open Water Diver or higher.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;What is Included:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; 1 days tuition (dive  theory, 2 training dives)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Diving safety Guidance (bliefing and debliefing, before and after every dive)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Use of basic diving equipment&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Tanks and weights&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Underwater picture (If the situation permits)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Lunch and complimentary drinks on board (+ juice, water and some sweets)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Additional cost:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; PADI Drift Diver Manual  and Certification application Fee&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Medical certificate (If it\&apos;s necessary)&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;Price:  110 Euro&lt;/font&gt;&lt;/b&gt; (with use of basic scuba equipment)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+			<string>SP_DriftDiver_01</string>
+			<string>SP_DriftDiver_02</string>
+		</array>
+		<key>sub6</key>
+		<array>
+			<string>6. PADI Specialty Night Diver Course</string>
+			<string>&lt;html&gt;&lt;body&gt;&lt;strong&gt;Program Explanation:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This program is for  who has interest to see completely different scene of the sea or who have wondered what happens underwater after the sun set.&lt;/p&gt;
+        &lt;p&gt;You will find different world at night as day creatures retired and nocturnal organisms emerge.&lt;/p&gt;
+        &lt;p&gt;In this course, you will learn focus on what you can see in your light beam, controlling  your buoyancy by feel, on staying with your buddy and paying attention to details you may overlook during the day.&lt;/p&gt;
+        &lt;p&gt;You will practice Light handling and communication techniques, entering,  exiting and navigating in the dark, Identifying how plants and animals differ or change behavior at night.&lt;/p&gt;
+        &lt;p&gt;The course duration is 3 days(night),   3 training dives  at the excellent divesite in Hurghada Red Sea with our experienced Instructor, so that you can enjoy diving Red Sea and Red Sea fish even during the course.&lt;/p&gt;
+        &lt;p&gt;First dive of this course may credit as an Adventure dive toward your Advanced Open Water Diver certification.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;To enroll in this course:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; Must be more than 12 years old or older and who has PADI (Junior) Open Water Diver or higher.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;What is Included:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; 3 days(night) tuition (dive  theory,  3 training dives )&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Diving safety Guidance (bliefing and debliefing, before and after every dive)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Use of basic diving equipment&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Tanks and weights&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Underwater picture (If the situation permits)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Snack and soft drink&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Additional cost:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; PADI Night Diver Manual  and Certification application Fee&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Medical certificate (If it\&apos;s necessary)&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;Price:  170 Euro&lt;/font&gt;&lt;/b&gt; (with use of basic scuba equipment)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+			<string>SP_NightDiver_01</string>
+			<string>SP_NightDiver_02</string>
+		</array>
+		<key>sub7</key>
+		<array>
+			<string>7. PADI Specialty Deep Diver Course</string>
+			<string>&lt;html&gt;&lt;body&gt;&lt;strong&gt;Program Explanation:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This program is for  who like to dive deeper than 18 meters/60 feet. There many exciting and beautiful dive site below 18 meters/ 60 feet, like a wreck, wall dives,  historical objects or fish and corals (underwater creatures).&lt;/p&gt;
+        &lt;p&gt;In this course make you dive with confidence at depth down to 40 meters/130 feet.&lt;/p&gt;
+        &lt;p&gt;Start by reviewing reasons for deep diving and how important is to know your personal limits.&lt;/p&gt;
+        &lt;p&gt;During 4 training dives, you will learn Specialized deep diving equipment, Deep diving planning, buddy contact procedures and buoyancy control, managing your gas supply, dealing with gas narcosis and safety considerations.&lt;/p&gt;
+        &lt;p&gt;The course duration is 3 days, 4 training dives (+ 2 optional dives)  at the excellent divesite in Hurghada Red Sea with our experienced Instructor, so that you can enjoy diving Red Sea and Red Sea fish even during the course.&lt;/p&gt;
+        &lt;p&gt;First dive of this course may credit as an Adventure dive toward your Advanced Open Water Diver certification.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;To enroll in this course:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; Must be more than 15 years old or older and who has PADI Adventure Diver or higher.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;What is Included:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; 3 days(night) tuition (dive  theory, 3 training dives )&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Diving safety Guidance (bliefing and debliefing, before and after every dive)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Use of basic diving equipment&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Tanks and weights&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Underwater picture (If the situation permits)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Snack and soft drink&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Additional cost:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; PADI Deep Diver Manual  and Certification application Fee&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Medical certificate (If it\&apos;s necessary)&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;Price:  190 Euro&lt;/font&gt;&lt;/b&gt; (with use of basic scuba equipment)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+			<string>SP_DeepDiver_01</string>
+			<string>SP_DeepDiver_02</string>
+		</array>
+		<key>sub8</key>
+		<array>
+			<string>8. PADI EFR Primary and Secondary care Course</string>
+			<string>&lt;html&gt;&lt;body&gt;&lt;strong&gt;Program Explanation:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;CPR and first aid skill is very important for everyone not just for scuba dives.&lt;/p&gt;
+        &lt;p&gt;This program is teaches you CPR and first aid skills based on internationally  recognized emergency care guidelines, and anyone can join this course.&lt;/p&gt;
+        &lt;p&gt;In this course, you will learn, try and practice  emergency care skills in easy and comfortable atmosphere. So that you finish the course with the confident with your new skill  and ready to help someone in need.&lt;/p&gt;
+        &lt;p&gt;The course duration is 1 days, class room tuition.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;To enroll in this course:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; No requirement to enroll this course.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;What is Included:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; 1 days tuition (EFR theory and practice) - non diving&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; snack and drink&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Additional cost:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; PADI EFR Participant Manual and Certification application Fee&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;Price:  100 Euro&lt;/font&gt;&lt;/b&gt; (class room tuition)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+			<string>SP_EFR_01</string>
+			<string>SP_EFR_02</string>
+		</array>
+		<key>sub9</key>
+		<array>
+			<string>9. PADI Specialty Emergency Oxygen Provider Course</string>
+			<string>&lt;html&gt;&lt;body&gt;&lt;strong&gt;Program Explanation:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Knowing about how to use and when to use emergency oxygen means you are ready to help others when such occasion happens.&lt;/p&gt;
+        &lt;p&gt;This program teaches you about dive injuries, different types of emergency oxygen equipment and safety considerations when using oxygen.&lt;/p&gt;
+        &lt;p&gt;In this course, you will  practice  assembling and disassembling emergency oxygen equipment, deploying a non-rebreather mask and a demand inhalator valve on a breathing diver, using a pocket mask on a non-breathing diver.&lt;/p&gt;
+        &lt;p&gt;The course duration is 1 days, class room tuition.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;To enroll in this course:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; No requirement to enroll this course.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;What is Included:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; 1 days tuition (class  room tuition - non diving )&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; snack and drink&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Additional cost:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; PADI Emergency Oxygen Provider Manual  and Certification application Fee&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;Price:  100 Euro&lt;/font&gt;&lt;/b&gt; (class room tuition)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+			<string>SP_EOGP_01</string>
+			<string>SP_EOGP_02</string>
+		</array>
+		<key>sub90</key>
+		<array>
+			<string>10. PADI Specialty Digital Underwater Photographer Course</string>
+			<string>&lt;html&gt;&lt;body&gt;&lt;strong&gt;Program Explanation:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Now a days it\&apos;s very popular taking underwater photo and there\&apos;s so many cameras for underwater.&lt;/p&gt;
+        &lt;p&gt;This program is for who want to learn taking underwater photo easily and fast weather you use a simple digital camera or a sophisticated camera like the pros.&lt;/p&gt;
+        &lt;p&gt;In this course, you will learn how to choose the right underwater camera system for you, PADI SEA method for getting great shots quickly, Principles for good composition of underwater images and Practical techniques to take great photos with your digital camera.&lt;/p&gt;
+        &lt;p&gt;The course duration is 1 days, 2 training dives at the excellent divesite in Hurghada Red Sea with our experienced Instructor, so that you can enjoy diving Red Sea and Red Sea fish even during the course.&lt;/p&gt;
+        &lt;p&gt;The second dive of this course may credit as an Adventure dive toward your Advanced Open Water Diver certification.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;To enroll in this course:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; Must be more than 10 years old or older and who has PADI (Junior) Open Water Diver or higher.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;What is Included:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; 1 days tuition (dive  theory ,  2 Open water training dives)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Diving safety Guidance (bliefing and debliefing, before and after every dive)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Use of basic diving equipment&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Tanks and weights&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Underwater picture (If the situation permits)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Lunch and complimentary drinks on board (+ juice, water and some sweets)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Additional cost:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; PADI Digital Underwater Photographer Manual  and Certification application Fee&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Medical certificate (If it\&apos;s necessary)&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;Price:  110 Euro&lt;/font&gt;&lt;/b&gt; (with use of basic scuba equipment)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+			<string>SP_DigitalUWPhoto_01</string>
+			<string>SP_DigitalUWPhoto_02</string>
+		</array>
+		<key>sub91</key>
+		<array>
+			<string>11. PADI Specialty Underwater Videographer Course</string>
+			<string>&lt;html&gt;&lt;body&gt;&lt;strong&gt;Program Explanation:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Using Video became very  popular  to share the sights, sounds, motion and dynamics of the underwater scenes.&lt;/p&gt;
+        &lt;p&gt;This program is for who want to learn getting best clips and also learn to edit your scuba dive to share with friends through social media.&lt;/p&gt;
+        &lt;p&gt;In this course, you will learn how to create underwater videos that are interesting, entertaining and worth watching again and again.&lt;/p&gt;
+        &lt;p&gt;Also you will learn how to select and keep well your underwater video equipment.&lt;/p&gt;
+        &lt;p&gt;The course duration is 1 days, 2 training dives at the excellent divesite in Hurghada Red Sea with our experienced Instructor, so that you can enjoy diving Red Sea and Red Sea fish even during the course.&lt;/p&gt;
+        &lt;p&gt;The first dive of this course may credit as an Adventure dive toward your Advanced Open Water Diver certification.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;To enroll in this course:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; Must be more than 10 years old or older and who has PADI (Junior) Open Water Diver or higher.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;What is Included:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; 1 days tuition (dive  theory ,  2 Open water training dives)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Diving safety Guidance (bliefing and debliefing, before and after every dive)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Use of basic diving equipment &lt;br /&gt;&lt;b&gt;*&lt;/b&gt; anks and weights&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Underwater picture (If the situation permits)&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Lunch and complimentary drinks on board (+ juice, water and some sweets)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Additional cost:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; PADI Digital Underwater Photographer Manual  and Certification application Fee&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Medical certificate (If it\&apos;s necessary)&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;Price:  110 Euro&lt;/font&gt;&lt;/b&gt; (with use of basic scuba equipment)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+			<string>SP_UWVideo_01</string>
+			<string>SP_UWVideo_02</string>
+		</array>
+		<key>sub92</key>
+		<array>
+			<string>12. CMAS / SSI / IDEA (Other Courses)</string>
+			<string>&lt;html&gt;&lt;body&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;We provide CMAS, SSI, IDEA courses as well.&lt;br /&gt;Please ask us for more details.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+			<string>others_01</string>
+			<string>others_02</string>
+		</array>
+	</dict>
+	<key>prog4</key>
+	<dict>
+		<key>ProgramName</key>
+		<string>4. Diving Safari (Live aboard trips)</string>
+		<key>sub1</key>
+		<array>
+			<string>1. Live aboard  - Hurghada</string>
+			<string>&lt;html&gt;&lt;body&gt;&lt;strong&gt;Program Explanation:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Diving safari (Live aboard trip, dive cruise) HURGHADA is one of the best and luxury way to dive in the Red Sea Hurghada.&lt;/p&gt;
+        &lt;p&gt;You have all the day onboard so that you don\&apos;t need to rush to dive with other daily divers, and you can dive at the best time of  the excellent dive site in relaxing atmosphere.&lt;/p&gt;
+        &lt;p&gt;Diving Safari boat is full equipped so that you feel comfortable even you are in the middle of the sea.&lt;/p&gt;
+        &lt;p&gt;Before, after and between the diving,  you can take rest unwind or sun bathe on deck.  Or may be swim or snorkeling around the dive site if you want to.&lt;/p&gt;
+        &lt;p&gt;This program, we can arrange from 1 night 2days - 2 night 3days, trip to dive sites near by Hurghada.&lt;/p&gt;
+        &lt;p&gt;For people who doesn\&apos;t have long holiday but like to stay in the Red Sea.&lt;/p&gt;
+        &lt;p&gt;PADI Advanced Open Water Diver Course, Specialty Courses are available.&lt;/p&gt;
+        &lt;p&gt;At night, after the night dive,  you may see beautiful star light sky which is unforgettable.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;What is Included:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; 2-4 boat dives a day&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Diving Safety Guidance&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Tanks and weights&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; accommodation&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; All meals and complimentary drinks (+ juice, water and some sweets)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Additional cost:(If necessary)&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; Equipment rental&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Dive Medical Statement&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; National Park Fee&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;Price:  100 Euro&lt;/font&gt;&lt;/b&gt; per day&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+			<string>Hurghada_01</string>
+			<string>Hurghada_02</string>
+		</array>
+		<key>sub2</key>
+		<array>
+			<string>2. Live aboard - Red Sea North</string>
+			<string>&lt;html&gt;&lt;body&gt;&lt;strong&gt;Program Explanation:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Diving safari (Live aboard trip, dive cruise) is one of the best and luxury way to dive in the Red Sea Wrecks.&lt;/p&gt;
+        &lt;p&gt;This program is takes you to the famous Red Sea Wrecks and excellent dive sites such as abu nahas, thistlegorm, and so on.&lt;/p&gt;
+        &lt;p&gt;You have all the day onboard so that you don\&apos;t need to rush to dive with other divers at the excellent dive site in relaxing atmosphere.&lt;/p&gt;
+        &lt;p&gt;Diving Safari boat is full equipped so that you feel comfortable even you are in the middle of the sea. before, after and between the diving,  you can take rest unwind or sun bathe on deck.  Or may be swim or snorkeling around the dive site if you want to.&lt;/p&gt;
+        &lt;p&gt;This program, we can arrange from 2 night 3 days or more,  (more than 15 persons) trip to dive sites Hurghada to North Abu Nahas, Shaab Ali.&lt;/p&gt;
+        &lt;p&gt;For people who like to dive Red Sea Wrecks and Dolphins. You may have more chance to see and dive with dolphins.&lt;/p&gt;
+        &lt;p&gt;PADI Advanced Open Water Course, Specialty Wreck Diver Course or other Specialty Courses are available.&lt;/p&gt;
+        &lt;p&gt;At night, after the night dive,  you may see beautiful star light sky which is unforgettable.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;What is Included:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; 2-4 boat dives a day&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Diving Safety Guidance&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Tanks and weights&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; accommodation &lt;br /&gt;&lt;b&gt;*&lt;/b&gt; All meals and complimentary drinks (+ juice, water and some sweets)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Additional cost:(If necessary)&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; Equipment rental&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Dive Medical Statement&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; National Park Fee&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;Price:  120 Euro&lt;/font&gt;&lt;/b&gt; per day (2 night 3days or more)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+			<string>North_01</string>
+			<string>North_02</string>
+		</array>
+		<key>sub3</key>
+		<array>
+			<string>3. Live aboard - Red Sea South</string>
+			<string>&lt;html&gt;&lt;body&gt;&lt;strong&gt;Program Explanation:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Diving safari (Live aboard trip, dive cruise)  Red Sea South is one of the best and luxury way to dive in the Red Sea dive site.&lt;/p&gt;
+        &lt;p&gt;This program is takes you to the famous Red Sea Wreck &quot;Salem Express&quot;  and excellent dive sites such as &quot;Panorama Reef&quot; and so on.&lt;/p&gt;
+        &lt;p&gt;You have all the day onboard so that you don\&apos;t need to rush to dive with other divers at the excellent dive site in relaxing atmosphere.&lt;/p&gt;
+        &lt;p&gt;Diving Safari boat is full equipped so that you feel comfortable even you are in the middle of the sea. before, after and between the diving,  you can take rest unwind or sun bathe on deck.  Or may be swim or snorkeling around the dive site if you want to.&lt;/p&gt;
+        &lt;p&gt;This program, we can arrange from 2 night 3 days or more,  (more than 15 persons) trip to dive sites Hurghada to South Safaga.&lt;/p&gt;
+        &lt;p&gt;For people who like to see Red Sea Fish  and Dolphins, unbroken reefs in quiet atmosphere.&lt;/p&gt;
+        &lt;p&gt;PADI Advanced Open Water Course, Specialty Wreck Diver Course or other Specialty Courses are available.&lt;/p&gt;
+        &lt;p&gt;At night, after the night dive,  you may see beautiful star light sky which is unforgettable.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;What is Included:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; 2-4 boat dives a day&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Diving Safety Guidance&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Tanks and weights&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; accommodation&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; All meals and complimentary drinks (+ juice, water and some sweets)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Additional cost:(If necessary)&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; Equipment rental&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Dive Medical Statement&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; National Park Fee&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;Price:  120 Euro&lt;/font&gt;&lt;/b&gt; per day (2 night 3days or more)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+			<string>South_01</string>
+			<string>South_02</string>
+		</array>
+		<key>sub4</key>
+		<array>
+			<string>4. Live aboard - Red Sea Deep South</string>
+			<string>&lt;html&gt;&lt;body&gt;&lt;strong&gt;Program Explanation:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Diving safari (Live aboard trip, dive cruise) is the only  and luxury way to dive in the best  Red Sea dive sites.&lt;/p&gt;
+        &lt;p&gt;This program is takes you to the some of the best and famous Red Sea excellent dive sites such as  The brothers,  Dedalus Reef, Rocky Island, and so on.&lt;/p&gt;
+        &lt;p&gt;You have all the day onboard so that you don\&apos;t need to rush to dive with other divers at the excellent dive site in relaxing atmosphere.&lt;/p&gt;
+        &lt;p&gt;Diving Safari boat is full equipped so that you feel comfortable even you are in the middle of the sea. before, after and between the diving,  you can take rest unwind or sun bathe on deck.  Or may be swim or snorkeling around the dive site if you want to.&lt;/p&gt;
+        &lt;p&gt;This program, we can arrange from 5 night 6 days or more. (more than 15 persons)&lt;/p&gt;
+        &lt;p&gt;For people who like to dive best of Red Sea . You may have more chance to see and dive with dolphins.&lt;/p&gt;
+        &lt;p&gt;PADI Advanced Open Water Course, Specialty Wreck Diver Course or other Specialty Courses are available.&lt;/p&gt;
+        &lt;p&gt;At night, after the night dive,  you may see beautiful star light sky which is unforgettable.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;What is Included:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;*&lt;/b&gt; 2-4 boat dives a day&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Diving Safety Guidance&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; Tanks and weights&lt;br /&gt;&lt;b&gt;*&lt;/b&gt; accommodation &lt;br /&gt;&lt;b&gt;*&lt;/b&gt; All meals and complimentary drinks (+ juice, water and some sweets)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Additional cost:(If necessary)&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;&lt;font color=&quot;#3366ff&quot;&gt;Price:  140 Euro&lt;/font&gt;&lt;/b&gt; per day (5 night 6 days or more)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+			<string>DeepSouth_01</string>
+			<string>DeepSouth_02</string>
+		</array>
+	</dict>
+</dict>
+</plist>

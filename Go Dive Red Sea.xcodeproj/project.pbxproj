@@ -1,0 +1,811 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4A1CB73B1FCB47A100F65371 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A1CB73A1FCB47A100F65371 /* AppDelegate.swift */; };
+		4A1CB73D1FCB47A100F65371 /* ProgramsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A1CB73C1FCB47A100F65371 /* ProgramsViewController.swift */; };
+		4A1CB73F1FCB47A100F65371 /* GetToUsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A1CB73E1FCB47A100F65371 /* GetToUsViewController.swift */; };
+		4A1CB7421FCB47A100F65371 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A1CB7401FCB47A100F65371 /* Main.storyboard */; };
+		4A1CB7441FCB47A100F65371 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A1CB7431FCB47A100F65371 /* Assets.xcassets */; };
+		4A1CB7471FCB47A100F65371 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A1CB7451FCB47A100F65371 /* LaunchScreen.storyboard */; };
+		4A6005FD1FCBEE7A00CC43A5 /* BookingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A6005FC1FCBEE7A00CC43A5 /* BookingViewController.swift */; };
+		4A6005FF1FCBEEBF00CC43A5 /* ContactUsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A6005FE1FCBEEBF00CC43A5 /* ContactUsViewController.swift */; };
+		4A6006011FCBF36F00CC43A5 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4A6006001FCBF36E00CC43A5 /* GoogleService-Info.plist */; };
+		4A83C86F1FF2773A00E0816E /* gdrs_icon_512.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A83C86E1FF2773A00E0816E /* gdrs_icon_512.png */; };
+		4A83C8711FF2776800E0816E /* gdrs_icon_512.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A83C8701FF2776800E0816E /* gdrs_icon_512.png */; };
+		4AD499EB1FF12C670095DD5C /* SP_MultilevelDiver_02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499B01FF12C660095DD5C /* SP_MultilevelDiver_02.JPG */; };
+		4AD499EC1FF12C670095DD5C /* SP_DeepDiver_01.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499B11FF12C660095DD5C /* SP_DeepDiver_01.JPG */; };
+		4AD499ED1FF12C670095DD5C /* SP_Wreck_02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499B21FF12C660095DD5C /* SP_Wreck_02.JPG */; };
+		4AD499EE1FF12C670095DD5C /* SP_DigitalUWPhoto_02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499B31FF12C660095DD5C /* SP_DigitalUWPhoto_02.JPG */; };
+		4AD499EF1FF12C670095DD5C /* SP_MultilevelDiver_01.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499B41FF12C660095DD5C /* SP_MultilevelDiver_01.JPG */; };
+		4AD499F01FF12C670095DD5C /* SP_DeepDiver_02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499B51FF12C660095DD5C /* SP_DeepDiver_02.JPG */; };
+		4AD499F11FF12C670095DD5C /* SP_Wreck_01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499B61FF12C660095DD5C /* SP_Wreck_01.jpg */; };
+		4AD499F21FF12C670095DD5C /* SP_DigitalUWPhoto_01.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499B71FF12C660095DD5C /* SP_DigitalUWPhoto_01.JPG */; };
+		4AD499F31FF12C670095DD5C /* SP_NightDiver_01.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499B81FF12C660095DD5C /* SP_NightDiver_01.JPG */; };
+		4AD499F41FF12C670095DD5C /* Sp_NightDiver_02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499B91FF12C660095DD5C /* Sp_NightDiver_02.JPG */; };
+		4AD499F51FF12C670095DD5C /* SP_Boat_01.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499BA1FF12C660095DD5C /* SP_Boat_01.JPG */; };
+		4AD499F61FF12C670095DD5C /* SP_EFR_02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499BB1FF12C660095DD5C /* SP_EFR_02.JPG */; };
+		4AD499F81FF12C670095DD5C /* SP_Boat_02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499BD1FF12C660095DD5C /* SP_Boat_02.JPG */; };
+		4AD499F91FF12C670095DD5C /* SP_EFR_01.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499BE1FF12C660095DD5C /* SP_EFR_01.JPG */; };
+		4AD499FB1FF12C670095DD5C /* SP_PeakPerformance_01.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499C01FF12C660095DD5C /* SP_PeakPerformance_01.JPG */; };
+		4AD499FC1FF12C670095DD5C /* SP_PeakPerformance_02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499C11FF12C660095DD5C /* SP_PeakPerformance_02.JPG */; };
+		4AD499FD1FF12C670095DD5C /* SP_UWVideo_02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499C21FF12C660095DD5C /* SP_UWVideo_02.JPG */; };
+		4AD499FE1FF12C670095DD5C /* SP_UWVideo_01.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499C31FF12C660095DD5C /* SP_UWVideo_01.JPG */; };
+		4AD499FF1FF12C670095DD5C /* SP_DriftDiver_02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499C41FF12C660095DD5C /* SP_DriftDiver_02.JPG */; };
+		4AD49A001FF12C670095DD5C /* SP_EOGP_01.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499C51FF12C660095DD5C /* SP_EOGP_01.JPG */; };
+		4AD49A011FF12C670095DD5C /* SP_DriftDiver_01.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499C61FF12C660095DD5C /* SP_DriftDiver_01.JPG */; };
+		4AD49A021FF12C670095DD5C /* SP_EOGP_02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499C71FF12C660095DD5C /* SP_EOGP_02.JPG */; };
+		4AD49A031FF12C670095DD5C /* South_01.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499C91FF12C670095DD5C /* South_01.JPG */; };
+		4AD49A041FF12C670095DD5C /* South_02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499CA1FF12C670095DD5C /* South_02.JPG */; };
+		4AD49A051FF12C670095DD5C /* North_01.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499CB1FF12C670095DD5C /* North_01.JPG */; };
+		4AD49A061FF12C670095DD5C /* North_02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499CC1FF12C670095DD5C /* North_02.JPG */; };
+		4AD49A071FF12C670095DD5C /* Hurghada_02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499CD1FF12C670095DD5C /* Hurghada_02.JPG */; };
+		4AD49A081FF12C670095DD5C /* Hurghada_01.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499CE1FF12C670095DD5C /* Hurghada_01.JPG */; };
+		4AD49A091FF12C670095DD5C /* DeepSouth_02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499CF1FF12C670095DD5C /* DeepSouth_02.JPG */; };
+		4AD49A0A1FF12C670095DD5C /* DeepSouth_01.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499D01FF12C670095DD5C /* DeepSouth_01.JPG */; };
+		4AD49A0B1FF12C670095DD5C /* NightDive_01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499D21FF12C670095DD5C /* NightDive_01.jpg */; };
+		4AD49A0C1FF12C670095DD5C /* CheckDive_02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499D31FF12C670095DD5C /* CheckDive_02.JPG */; };
+		4AD49A0D1FF12C670095DD5C /* NightDive_02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499D41FF12C670095DD5C /* NightDive_02.JPG */; };
+		4AD49A0E1FF12C670095DD5C /* CheckDive_01.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499D51FF12C670095DD5C /* CheckDive_01.JPG */; };
+		4AD49A0F1FF12C670095DD5C /* Introductory_02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499D61FF12C670095DD5C /* Introductory_02.JPG */; };
+		4AD49A101FF12C670095DD5C /* Introductory_01.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499D71FF12C670095DD5C /* Introductory_01.JPG */; };
+		4AD49A111FF12C670095DD5C /* Snorkeling_02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499D81FF12C670095DD5C /* Snorkeling_02.JPG */; };
+		4AD49A121FF12C670095DD5C /* Snorkeling_01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499D91FF12C670095DD5C /* Snorkeling_01.jpg */; };
+		4AD49A131FF12C670095DD5C /* FunDive_01.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499DA1FF12C670095DD5C /* FunDive_01.JPG */; };
+		4AD49A141FF12C670095DD5C /* FunDive_02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499DB1FF12C670095DD5C /* FunDive_02.JPG */; };
+		4AD49A151FF12C670095DD5C /* AdvancedOpenWater_01.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499DD1FF12C670095DD5C /* AdvancedOpenWater_01.JPG */; };
+		4AD49A161FF12C670095DD5C /* ScubaDiver_01.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499DE1FF12C670095DD5C /* ScubaDiver_01.JPG */; };
+		4AD49A171FF12C670095DD5C /* AdvancedOpenWater_02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499DF1FF12C670095DD5C /* AdvancedOpenWater_02.JPG */; };
+		4AD49A181FF12C670095DD5C /* ScubaDiver_02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499E01FF12C670095DD5C /* ScubaDiver_02.JPG */; };
+		4AD49A191FF12C670095DD5C /* others_01.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499E11FF12C670095DD5C /* others_01.JPG */; };
+		4AD49A1A1FF12C670095DD5C /* others_02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499E21FF12C670095DD5C /* others_02.JPG */; };
+		4AD49A1B1FF12C670095DD5C /* Divemaster_01.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499E31FF12C670095DD5C /* Divemaster_01.JPG */; };
+		4AD49A1C1FF12C670095DD5C /* Divemaster_02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499E41FF12C670095DD5C /* Divemaster_02.JPG */; };
+		4AD49A1D1FF12C670095DD5C /* AdventureDiver_02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499E51FF12C670095DD5C /* AdventureDiver_02.JPG */; };
+		4AD49A1E1FF12C670095DD5C /* OpenWater_01.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499E61FF12C670095DD5C /* OpenWater_01.JPG */; };
+		4AD49A1F1FF12C670095DD5C /* OpenWater_02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499E71FF12C670095DD5C /* OpenWater_02.JPG */; };
+		4AD49A201FF12C670095DD5C /* Rescue_01.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499E81FF12C670095DD5C /* Rescue_01.JPG */; };
+		4AD49A211FF12C670095DD5C /* Rescue_02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499E91FF12C670095DD5C /* Rescue_02.JPG */; };
+		4AD49A221FF12C670095DD5C /* AdventureDiver_01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4AD499EA1FF12C670095DD5C /* AdventureDiver_01.jpg */; };
+		4AF0D7371FD7C69A004E1C8E /* Programs.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4AF0D7361FD7C69A004E1C8E /* Programs.plist */; };
+		4AFB30C41FDC7BFE00500697 /* instagram_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 4AFB30BB1FDC7BFD00500697 /* instagram_icon.png */; };
+		4AFB30C51FDC7BFE00500697 /* ic_diving.png in Resources */ = {isa = PBXBuildFile; fileRef = 4AFB30BC1FDC7BFD00500697 /* ic_diving.png */; };
+		4AFB30C61FDC7BFE00500697 /* youtube_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 4AFB30BD1FDC7BFE00500697 /* youtube_icon.png */; };
+		4AFB30C71FDC7BFE00500697 /* whatsapp.png in Resources */ = {isa = PBXBuildFile; fileRef = 4AFB30BE1FDC7BFE00500697 /* whatsapp.png */; };
+		4AFB30C81FDC7BFE00500697 /* fischen.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4AFB30BF1FDC7BFE00500697 /* fischen.JPG */; };
+		4AFB30C91FDC7BFE00500697 /* dial_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 4AFB30C01FDC7BFE00500697 /* dial_icon.png */; };
+		4AFB30CA1FDC7BFE00500697 /* fb_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 4AFB30C11FDC7BFE00500697 /* fb_icon.png */; };
+		4AFB30CB1FDC7BFE00500697 /* twitter_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 4AFB30C21FDC7BFE00500697 /* twitter_icon.png */; };
+		4AFB30CC1FDC7BFE00500697 /* web_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 4AFB30C31FDC7BFE00500697 /* web_icon.png */; };
+		CEF515241FDC2BEB00A3F028 /* CustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF515231FDC2BEB00A3F028 /* CustomCell.swift */; };
+		CEF515261FDC2FAE00A3F028 /* dolphinicon.png in Resources */ = {isa = PBXBuildFile; fileRef = CEF515251FDC2FAE00A3F028 /* dolphinicon.png */; };
+		CEF515281FDC326100A3F028 /* SubProgramsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF515271FDC326100A3F028 /* SubProgramsViewController.swift */; };
+		CEF5152A1FDC425100A3F028 /* SubProgramViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF515291FDC425100A3F028 /* SubProgramViewController.swift */; };
+		F4C72582EBC96A0A0D0B46AD /* Pods_Go_Dive_Red_Sea.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 576175F625E82C4C515BE419 /* Pods_Go_Dive_Red_Sea.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		4A23D2D61FD55552008CE904 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		33FA73E58AA254635A7391F1 /* Pods-Go Dive Red Sea.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Go Dive Red Sea.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Go Dive Red Sea/Pods-Go Dive Red Sea.debug.xcconfig"; sourceTree = "<group>"; };
+		4A1CB7371FCB47A100F65371 /* Go Dive Red Sea.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Go Dive Red Sea.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4A1CB73A1FCB47A100F65371 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		4A1CB73C1FCB47A100F65371 /* ProgramsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgramsViewController.swift; sourceTree = "<group>"; };
+		4A1CB73E1FCB47A100F65371 /* GetToUsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetToUsViewController.swift; sourceTree = "<group>"; };
+		4A1CB7411FCB47A100F65371 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4A1CB7431FCB47A100F65371 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4A1CB7461FCB47A100F65371 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4A1CB7481FCB47A200F65371 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4A6005FC1FCBEE7A00CC43A5 /* BookingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookingViewController.swift; sourceTree = "<group>"; };
+		4A6005FE1FCBEEBF00CC43A5 /* ContactUsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactUsViewController.swift; sourceTree = "<group>"; };
+		4A6006001FCBF36E00CC43A5 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		4A83C86E1FF2773A00E0816E /* gdrs_icon_512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gdrs_icon_512.png; sourceTree = "<group>"; };
+		4A83C8701FF2776800E0816E /* gdrs_icon_512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gdrs_icon_512.png; sourceTree = "<group>"; };
+		4AD499B01FF12C660095DD5C /* SP_MultilevelDiver_02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SP_MultilevelDiver_02.JPG; sourceTree = "<group>"; };
+		4AD499B11FF12C660095DD5C /* SP_DeepDiver_01.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SP_DeepDiver_01.JPG; sourceTree = "<group>"; };
+		4AD499B21FF12C660095DD5C /* SP_Wreck_02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SP_Wreck_02.JPG; sourceTree = "<group>"; };
+		4AD499B31FF12C660095DD5C /* SP_DigitalUWPhoto_02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SP_DigitalUWPhoto_02.JPG; sourceTree = "<group>"; };
+		4AD499B41FF12C660095DD5C /* SP_MultilevelDiver_01.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SP_MultilevelDiver_01.JPG; sourceTree = "<group>"; };
+		4AD499B51FF12C660095DD5C /* SP_DeepDiver_02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SP_DeepDiver_02.JPG; sourceTree = "<group>"; };
+		4AD499B61FF12C660095DD5C /* SP_Wreck_01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SP_Wreck_01.jpg; sourceTree = "<group>"; };
+		4AD499B71FF12C660095DD5C /* SP_DigitalUWPhoto_01.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SP_DigitalUWPhoto_01.JPG; sourceTree = "<group>"; };
+		4AD499B81FF12C660095DD5C /* SP_NightDiver_01.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SP_NightDiver_01.JPG; sourceTree = "<group>"; };
+		4AD499B91FF12C660095DD5C /* Sp_NightDiver_02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sp_NightDiver_02.JPG; sourceTree = "<group>"; };
+		4AD499BA1FF12C660095DD5C /* SP_Boat_01.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SP_Boat_01.JPG; sourceTree = "<group>"; };
+		4AD499BB1FF12C660095DD5C /* SP_EFR_02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SP_EFR_02.JPG; sourceTree = "<group>"; };
+		4AD499BD1FF12C660095DD5C /* SP_Boat_02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SP_Boat_02.JPG; sourceTree = "<group>"; };
+		4AD499BE1FF12C660095DD5C /* SP_EFR_01.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SP_EFR_01.JPG; sourceTree = "<group>"; };
+		4AD499C01FF12C660095DD5C /* SP_PeakPerformance_01.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SP_PeakPerformance_01.JPG; sourceTree = "<group>"; };
+		4AD499C11FF12C660095DD5C /* SP_PeakPerformance_02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SP_PeakPerformance_02.JPG; sourceTree = "<group>"; };
+		4AD499C21FF12C660095DD5C /* SP_UWVideo_02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SP_UWVideo_02.JPG; sourceTree = "<group>"; };
+		4AD499C31FF12C660095DD5C /* SP_UWVideo_01.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SP_UWVideo_01.JPG; sourceTree = "<group>"; };
+		4AD499C41FF12C660095DD5C /* SP_DriftDiver_02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SP_DriftDiver_02.JPG; sourceTree = "<group>"; };
+		4AD499C51FF12C660095DD5C /* SP_EOGP_01.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SP_EOGP_01.JPG; sourceTree = "<group>"; };
+		4AD499C61FF12C660095DD5C /* SP_DriftDiver_01.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SP_DriftDiver_01.JPG; sourceTree = "<group>"; };
+		4AD499C71FF12C660095DD5C /* SP_EOGP_02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SP_EOGP_02.JPG; sourceTree = "<group>"; };
+		4AD499C91FF12C670095DD5C /* South_01.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = South_01.JPG; sourceTree = "<group>"; };
+		4AD499CA1FF12C670095DD5C /* South_02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = South_02.JPG; sourceTree = "<group>"; };
+		4AD499CB1FF12C670095DD5C /* North_01.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = North_01.JPG; sourceTree = "<group>"; };
+		4AD499CC1FF12C670095DD5C /* North_02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = North_02.JPG; sourceTree = "<group>"; };
+		4AD499CD1FF12C670095DD5C /* Hurghada_02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Hurghada_02.JPG; sourceTree = "<group>"; };
+		4AD499CE1FF12C670095DD5C /* Hurghada_01.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Hurghada_01.JPG; sourceTree = "<group>"; };
+		4AD499CF1FF12C670095DD5C /* DeepSouth_02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = DeepSouth_02.JPG; sourceTree = "<group>"; };
+		4AD499D01FF12C670095DD5C /* DeepSouth_01.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = DeepSouth_01.JPG; sourceTree = "<group>"; };
+		4AD499D21FF12C670095DD5C /* NightDive_01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = NightDive_01.jpg; sourceTree = "<group>"; };
+		4AD499D31FF12C670095DD5C /* CheckDive_02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = CheckDive_02.JPG; sourceTree = "<group>"; };
+		4AD499D41FF12C670095DD5C /* NightDive_02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = NightDive_02.JPG; sourceTree = "<group>"; };
+		4AD499D51FF12C670095DD5C /* CheckDive_01.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = CheckDive_01.JPG; sourceTree = "<group>"; };
+		4AD499D61FF12C670095DD5C /* Introductory_02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Introductory_02.JPG; sourceTree = "<group>"; };
+		4AD499D71FF12C670095DD5C /* Introductory_01.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Introductory_01.JPG; sourceTree = "<group>"; };
+		4AD499D81FF12C670095DD5C /* Snorkeling_02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Snorkeling_02.JPG; sourceTree = "<group>"; };
+		4AD499D91FF12C670095DD5C /* Snorkeling_01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Snorkeling_01.jpg; sourceTree = "<group>"; };
+		4AD499DA1FF12C670095DD5C /* FunDive_01.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = FunDive_01.JPG; sourceTree = "<group>"; };
+		4AD499DB1FF12C670095DD5C /* FunDive_02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = FunDive_02.JPG; sourceTree = "<group>"; };
+		4AD499DD1FF12C670095DD5C /* AdvancedOpenWater_01.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AdvancedOpenWater_01.JPG; sourceTree = "<group>"; };
+		4AD499DE1FF12C670095DD5C /* ScubaDiver_01.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ScubaDiver_01.JPG; sourceTree = "<group>"; };
+		4AD499DF1FF12C670095DD5C /* AdvancedOpenWater_02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AdvancedOpenWater_02.JPG; sourceTree = "<group>"; };
+		4AD499E01FF12C670095DD5C /* ScubaDiver_02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ScubaDiver_02.JPG; sourceTree = "<group>"; };
+		4AD499E11FF12C670095DD5C /* others_01.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = others_01.JPG; sourceTree = "<group>"; };
+		4AD499E21FF12C670095DD5C /* others_02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = others_02.JPG; sourceTree = "<group>"; };
+		4AD499E31FF12C670095DD5C /* Divemaster_01.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Divemaster_01.JPG; sourceTree = "<group>"; };
+		4AD499E41FF12C670095DD5C /* Divemaster_02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Divemaster_02.JPG; sourceTree = "<group>"; };
+		4AD499E51FF12C670095DD5C /* AdventureDiver_02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AdventureDiver_02.JPG; sourceTree = "<group>"; };
+		4AD499E61FF12C670095DD5C /* OpenWater_01.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = OpenWater_01.JPG; sourceTree = "<group>"; };
+		4AD499E71FF12C670095DD5C /* OpenWater_02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = OpenWater_02.JPG; sourceTree = "<group>"; };
+		4AD499E81FF12C670095DD5C /* Rescue_01.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Rescue_01.JPG; sourceTree = "<group>"; };
+		4AD499E91FF12C670095DD5C /* Rescue_02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Rescue_02.JPG; sourceTree = "<group>"; };
+		4AD499EA1FF12C670095DD5C /* AdventureDiver_01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AdventureDiver_01.jpg; sourceTree = "<group>"; };
+		4AF0D7361FD7C69A004E1C8E /* Programs.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Programs.plist; sourceTree = "<group>"; };
+		4AFB30BB1FDC7BFD00500697 /* instagram_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instagram_icon.png; sourceTree = "<group>"; };
+		4AFB30BC1FDC7BFD00500697 /* ic_diving.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_diving.png; sourceTree = "<group>"; };
+		4AFB30BD1FDC7BFE00500697 /* youtube_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = youtube_icon.png; sourceTree = "<group>"; };
+		4AFB30BE1FDC7BFE00500697 /* whatsapp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whatsapp.png; sourceTree = "<group>"; };
+		4AFB30BF1FDC7BFE00500697 /* fischen.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fischen.JPG; sourceTree = "<group>"; };
+		4AFB30C01FDC7BFE00500697 /* dial_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dial_icon.png; sourceTree = "<group>"; };
+		4AFB30C11FDC7BFE00500697 /* fb_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fb_icon.png; sourceTree = "<group>"; };
+		4AFB30C21FDC7BFE00500697 /* twitter_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = twitter_icon.png; sourceTree = "<group>"; };
+		4AFB30C31FDC7BFE00500697 /* web_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = web_icon.png; sourceTree = "<group>"; };
+		576175F625E82C4C515BE419 /* Pods_Go_Dive_Red_Sea.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Go_Dive_Red_Sea.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		ADA7AE5328A25910CE116CD2 /* Pods-Go Dive Red Sea.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Go Dive Red Sea.release.xcconfig"; path = "Pods/Target Support Files/Pods-Go Dive Red Sea/Pods-Go Dive Red Sea.release.xcconfig"; sourceTree = "<group>"; };
+		CEF515231FDC2BEB00A3F028 /* CustomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCell.swift; sourceTree = "<group>"; };
+		CEF515251FDC2FAE00A3F028 /* dolphinicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dolphinicon.png; sourceTree = "<group>"; };
+		CEF515271FDC326100A3F028 /* SubProgramsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubProgramsViewController.swift; sourceTree = "<group>"; };
+		CEF515291FDC425100A3F028 /* SubProgramViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubProgramViewController.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4A1CB7341FCB47A100F65371 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F4C72582EBC96A0A0D0B46AD /* Pods_Go_Dive_Red_Sea.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		14671B41B508F925767DFFA1 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				576175F625E82C4C515BE419 /* Pods_Go_Dive_Red_Sea.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		4A1CB72E1FCB47A100F65371 = {
+			isa = PBXGroup;
+			children = (
+				4A1CB7391FCB47A100F65371 /* Go Dive Red Sea */,
+				4A1CB7381FCB47A100F65371 /* Products */,
+				F1F634A3B3D1FA78E3A9BEC2 /* Pods */,
+				14671B41B508F925767DFFA1 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		4A1CB7381FCB47A100F65371 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4A1CB7371FCB47A100F65371 /* Go Dive Red Sea.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4A1CB7391FCB47A100F65371 /* Go Dive Red Sea */ = {
+			isa = PBXGroup;
+			children = (
+				4AF0D7351FD7C66E004E1C8E /* Resources */,
+				CEF515221FDC2BC000A3F028 /* Cell */,
+				4A1CB73A1FCB47A100F65371 /* AppDelegate.swift */,
+				4A1CB73C1FCB47A100F65371 /* ProgramsViewController.swift */,
+				CEF515271FDC326100A3F028 /* SubProgramsViewController.swift */,
+				CEF515291FDC425100A3F028 /* SubProgramViewController.swift */,
+				4A1CB73E1FCB47A100F65371 /* GetToUsViewController.swift */,
+				4A6005FC1FCBEE7A00CC43A5 /* BookingViewController.swift */,
+				4A6005FE1FCBEEBF00CC43A5 /* ContactUsViewController.swift */,
+				4A1CB7401FCB47A100F65371 /* Main.storyboard */,
+				4A1CB7431FCB47A100F65371 /* Assets.xcassets */,
+				4A1CB7451FCB47A100F65371 /* LaunchScreen.storyboard */,
+				4A1CB7481FCB47A200F65371 /* Info.plist */,
+				4A6006001FCBF36E00CC43A5 /* GoogleService-Info.plist */,
+			);
+			path = "Go Dive Red Sea";
+			sourceTree = "<group>";
+		};
+		4A92825A1FDB3C9E007EBF07 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				4AD499D11FF12C670095DD5C /* DailyService */,
+				4AD499DC1FF12C670095DD5C /* DiveCourse */,
+				4AD499C81FF12C670095DD5C /* DiveSafari */,
+				4AD499AF1FF12C660095DD5C /* SpecialtyCourse */,
+				4AFB30C01FDC7BFE00500697 /* dial_icon.png */,
+				4AFB30C11FDC7BFE00500697 /* fb_icon.png */,
+				4AFB30BF1FDC7BFE00500697 /* fischen.JPG */,
+				4A83C8701FF2776800E0816E /* gdrs_icon_512.png */,
+				4AFB30BC1FDC7BFD00500697 /* ic_diving.png */,
+				4AFB30BB1FDC7BFD00500697 /* instagram_icon.png */,
+				4AFB30C21FDC7BFE00500697 /* twitter_icon.png */,
+				4AFB30C31FDC7BFE00500697 /* web_icon.png */,
+				4AFB30BE1FDC7BFE00500697 /* whatsapp.png */,
+				4AFB30BD1FDC7BFE00500697 /* youtube_icon.png */,
+				CEF515251FDC2FAE00A3F028 /* dolphinicon.png */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		4AD499AF1FF12C660095DD5C /* SpecialtyCourse */ = {
+			isa = PBXGroup;
+			children = (
+				4A83C86E1FF2773A00E0816E /* gdrs_icon_512.png */,
+				4AD499B01FF12C660095DD5C /* SP_MultilevelDiver_02.JPG */,
+				4AD499B11FF12C660095DD5C /* SP_DeepDiver_01.JPG */,
+				4AD499B21FF12C660095DD5C /* SP_Wreck_02.JPG */,
+				4AD499B31FF12C660095DD5C /* SP_DigitalUWPhoto_02.JPG */,
+				4AD499B41FF12C660095DD5C /* SP_MultilevelDiver_01.JPG */,
+				4AD499B51FF12C660095DD5C /* SP_DeepDiver_02.JPG */,
+				4AD499B61FF12C660095DD5C /* SP_Wreck_01.jpg */,
+				4AD499B71FF12C660095DD5C /* SP_DigitalUWPhoto_01.JPG */,
+				4AD499B81FF12C660095DD5C /* SP_NightDiver_01.JPG */,
+				4AD499B91FF12C660095DD5C /* Sp_NightDiver_02.JPG */,
+				4AD499BA1FF12C660095DD5C /* SP_Boat_01.JPG */,
+				4AD499BB1FF12C660095DD5C /* SP_EFR_02.JPG */,
+				4AD499BD1FF12C660095DD5C /* SP_Boat_02.JPG */,
+				4AD499BE1FF12C660095DD5C /* SP_EFR_01.JPG */,
+				4AD499C01FF12C660095DD5C /* SP_PeakPerformance_01.JPG */,
+				4AD499C11FF12C660095DD5C /* SP_PeakPerformance_02.JPG */,
+				4AD499C21FF12C660095DD5C /* SP_UWVideo_02.JPG */,
+				4AD499C31FF12C660095DD5C /* SP_UWVideo_01.JPG */,
+				4AD499C41FF12C660095DD5C /* SP_DriftDiver_02.JPG */,
+				4AD499C51FF12C660095DD5C /* SP_EOGP_01.JPG */,
+				4AD499C61FF12C660095DD5C /* SP_DriftDiver_01.JPG */,
+				4AD499C71FF12C660095DD5C /* SP_EOGP_02.JPG */,
+			);
+			path = SpecialtyCourse;
+			sourceTree = "<group>";
+		};
+		4AD499C81FF12C670095DD5C /* DiveSafari */ = {
+			isa = PBXGroup;
+			children = (
+				4AD499C91FF12C670095DD5C /* South_01.JPG */,
+				4AD499CA1FF12C670095DD5C /* South_02.JPG */,
+				4AD499CB1FF12C670095DD5C /* North_01.JPG */,
+				4AD499CC1FF12C670095DD5C /* North_02.JPG */,
+				4AD499CD1FF12C670095DD5C /* Hurghada_02.JPG */,
+				4AD499CE1FF12C670095DD5C /* Hurghada_01.JPG */,
+				4AD499CF1FF12C670095DD5C /* DeepSouth_02.JPG */,
+				4AD499D01FF12C670095DD5C /* DeepSouth_01.JPG */,
+			);
+			path = DiveSafari;
+			sourceTree = "<group>";
+		};
+		4AD499D11FF12C670095DD5C /* DailyService */ = {
+			isa = PBXGroup;
+			children = (
+				4AD499D21FF12C670095DD5C /* NightDive_01.jpg */,
+				4AD499D31FF12C670095DD5C /* CheckDive_02.JPG */,
+				4AD499D41FF12C670095DD5C /* NightDive_02.JPG */,
+				4AD499D51FF12C670095DD5C /* CheckDive_01.JPG */,
+				4AD499D61FF12C670095DD5C /* Introductory_02.JPG */,
+				4AD499D71FF12C670095DD5C /* Introductory_01.JPG */,
+				4AD499D81FF12C670095DD5C /* Snorkeling_02.JPG */,
+				4AD499D91FF12C670095DD5C /* Snorkeling_01.jpg */,
+				4AD499DA1FF12C670095DD5C /* FunDive_01.JPG */,
+				4AD499DB1FF12C670095DD5C /* FunDive_02.JPG */,
+			);
+			path = DailyService;
+			sourceTree = "<group>";
+		};
+		4AD499DC1FF12C670095DD5C /* DiveCourse */ = {
+			isa = PBXGroup;
+			children = (
+				4AD499DD1FF12C670095DD5C /* AdvancedOpenWater_01.JPG */,
+				4AD499DE1FF12C670095DD5C /* ScubaDiver_01.JPG */,
+				4AD499DF1FF12C670095DD5C /* AdvancedOpenWater_02.JPG */,
+				4AD499E01FF12C670095DD5C /* ScubaDiver_02.JPG */,
+				4AD499E11FF12C670095DD5C /* others_01.JPG */,
+				4AD499E21FF12C670095DD5C /* others_02.JPG */,
+				4AD499E31FF12C670095DD5C /* Divemaster_01.JPG */,
+				4AD499E41FF12C670095DD5C /* Divemaster_02.JPG */,
+				4AD499E51FF12C670095DD5C /* AdventureDiver_02.JPG */,
+				4AD499E61FF12C670095DD5C /* OpenWater_01.JPG */,
+				4AD499E71FF12C670095DD5C /* OpenWater_02.JPG */,
+				4AD499E81FF12C670095DD5C /* Rescue_01.JPG */,
+				4AD499E91FF12C670095DD5C /* Rescue_02.JPG */,
+				4AD499EA1FF12C670095DD5C /* AdventureDiver_01.jpg */,
+			);
+			path = DiveCourse;
+			sourceTree = "<group>";
+		};
+		4AF0D7351FD7C66E004E1C8E /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				4A92825A1FDB3C9E007EBF07 /* images */,
+				4AF0D7361FD7C69A004E1C8E /* Programs.plist */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		CEF515221FDC2BC000A3F028 /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				CEF515231FDC2BEB00A3F028 /* CustomCell.swift */,
+			);
+			path = Cell;
+			sourceTree = "<group>";
+		};
+		F1F634A3B3D1FA78E3A9BEC2 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				33FA73E58AA254635A7391F1 /* Pods-Go Dive Red Sea.debug.xcconfig */,
+				ADA7AE5328A25910CE116CD2 /* Pods-Go Dive Red Sea.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4A1CB7361FCB47A100F65371 /* Go Dive Red Sea */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4A1CB74B1FCB47A200F65371 /* Build configuration list for PBXNativeTarget "Go Dive Red Sea" */;
+			buildPhases = (
+				282E14C29DED39AF92F5BCF6 /* [CP] Check Pods Manifest.lock */,
+				4A1CB7331FCB47A100F65371 /* Sources */,
+				4A1CB7341FCB47A100F65371 /* Frameworks */,
+				4A1CB7351FCB47A100F65371 /* Resources */,
+				DD3C88B64A703BE4A2A4B426 /* [CP] Embed Pods Frameworks */,
+				E1DDE967B0983B64A2AD23CD /* [CP] Copy Pods Resources */,
+				4A23D2D61FD55552008CE904 /* Embed Frameworks */,
+				4AD499AE1FEFCCF60095DD5C /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Go Dive Red Sea";
+			productName = "Go Dive Red Sea";
+			productReference = 4A1CB7371FCB47A100F65371 /* Go Dive Red Sea.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4A1CB72F1FCB47A100F65371 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0910;
+				LastUpgradeCheck = 0910;
+				ORGANIZATIONNAME = "Sara Divers";
+				TargetAttributes = {
+					4A1CB7361FCB47A100F65371 = {
+						CreatedOnToolsVersion = 9.1;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 4A1CB7321FCB47A100F65371 /* Build configuration list for PBXProject "Go Dive Red Sea" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 4A1CB72E1FCB47A100F65371;
+			productRefGroup = 4A1CB7381FCB47A100F65371 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4A1CB7361FCB47A100F65371 /* Go Dive Red Sea */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4A1CB7351FCB47A100F65371 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4AD49A011FF12C670095DD5C /* SP_DriftDiver_01.JPG in Resources */,
+				4AD49A1B1FF12C670095DD5C /* Divemaster_01.JPG in Resources */,
+				4AD49A201FF12C670095DD5C /* Rescue_01.JPG in Resources */,
+				4AD499F31FF12C670095DD5C /* SP_NightDiver_01.JPG in Resources */,
+				4AD499F11FF12C670095DD5C /* SP_Wreck_01.jpg in Resources */,
+				4AD499F81FF12C670095DD5C /* SP_Boat_02.JPG in Resources */,
+				4AD49A171FF12C670095DD5C /* AdvancedOpenWater_02.JPG in Resources */,
+				4AD49A021FF12C670095DD5C /* SP_EOGP_02.JPG in Resources */,
+				4AD499EC1FF12C670095DD5C /* SP_DeepDiver_01.JPG in Resources */,
+				4AD49A1C1FF12C670095DD5C /* Divemaster_02.JPG in Resources */,
+				4AD49A1E1FF12C670095DD5C /* OpenWater_01.JPG in Resources */,
+				4AD49A1A1FF12C670095DD5C /* others_02.JPG in Resources */,
+				4AD499FC1FF12C670095DD5C /* SP_PeakPerformance_02.JPG in Resources */,
+				4AD49A041FF12C670095DD5C /* South_02.JPG in Resources */,
+				4AD499F51FF12C670095DD5C /* SP_Boat_01.JPG in Resources */,
+				4AD49A121FF12C670095DD5C /* Snorkeling_01.jpg in Resources */,
+				4AD49A061FF12C670095DD5C /* North_02.JPG in Resources */,
+				4AD49A101FF12C670095DD5C /* Introductory_01.JPG in Resources */,
+				4AD49A211FF12C670095DD5C /* Rescue_02.JPG in Resources */,
+				4AD49A1F1FF12C670095DD5C /* OpenWater_02.JPG in Resources */,
+				4AD499EF1FF12C670095DD5C /* SP_MultilevelDiver_01.JPG in Resources */,
+				4A1CB7471FCB47A100F65371 /* LaunchScreen.storyboard in Resources */,
+				4A6006011FCBF36F00CC43A5 /* GoogleService-Info.plist in Resources */,
+				4AD499FF1FF12C670095DD5C /* SP_DriftDiver_02.JPG in Resources */,
+				4AD49A1D1FF12C670095DD5C /* AdventureDiver_02.JPG in Resources */,
+				4AD49A151FF12C670095DD5C /* AdvancedOpenWater_01.JPG in Resources */,
+				4AD49A0F1FF12C670095DD5C /* Introductory_02.JPG in Resources */,
+				4AD499F91FF12C670095DD5C /* SP_EFR_01.JPG in Resources */,
+				4AD499FE1FF12C670095DD5C /* SP_UWVideo_01.JPG in Resources */,
+				4AD49A111FF12C670095DD5C /* Snorkeling_02.JPG in Resources */,
+				4AD49A071FF12C670095DD5C /* Hurghada_02.JPG in Resources */,
+				4AD49A131FF12C670095DD5C /* FunDive_01.JPG in Resources */,
+				4AFB30CA1FDC7BFE00500697 /* fb_icon.png in Resources */,
+				4AD49A221FF12C670095DD5C /* AdventureDiver_01.jpg in Resources */,
+				4AD49A031FF12C670095DD5C /* South_01.JPG in Resources */,
+				4A1CB7441FCB47A100F65371 /* Assets.xcassets in Resources */,
+				4AD49A161FF12C670095DD5C /* ScubaDiver_01.JPG in Resources */,
+				4AFB30CC1FDC7BFE00500697 /* web_icon.png in Resources */,
+				4AD49A181FF12C670095DD5C /* ScubaDiver_02.JPG in Resources */,
+				4AFB30C71FDC7BFE00500697 /* whatsapp.png in Resources */,
+				4AD49A0E1FF12C670095DD5C /* CheckDive_01.JPG in Resources */,
+				4A83C86F1FF2773A00E0816E /* gdrs_icon_512.png in Resources */,
+				4AD49A0B1FF12C670095DD5C /* NightDive_01.jpg in Resources */,
+				4AFB30C61FDC7BFE00500697 /* youtube_icon.png in Resources */,
+				4AD49A081FF12C670095DD5C /* Hurghada_01.JPG in Resources */,
+				4AD499F41FF12C670095DD5C /* Sp_NightDiver_02.JPG in Resources */,
+				4AFB30C51FDC7BFE00500697 /* ic_diving.png in Resources */,
+				4AD49A001FF12C670095DD5C /* SP_EOGP_01.JPG in Resources */,
+				4AD499FD1FF12C670095DD5C /* SP_UWVideo_02.JPG in Resources */,
+				4A83C8711FF2776800E0816E /* gdrs_icon_512.png in Resources */,
+				4AFB30C81FDC7BFE00500697 /* fischen.JPG in Resources */,
+				4AD499FB1FF12C670095DD5C /* SP_PeakPerformance_01.JPG in Resources */,
+				4AD49A141FF12C670095DD5C /* FunDive_02.JPG in Resources */,
+				4AD499EB1FF12C670095DD5C /* SP_MultilevelDiver_02.JPG in Resources */,
+				4AF0D7371FD7C69A004E1C8E /* Programs.plist in Resources */,
+				4AD49A0C1FF12C670095DD5C /* CheckDive_02.JPG in Resources */,
+				4AFB30CB1FDC7BFE00500697 /* twitter_icon.png in Resources */,
+				4AFB30C41FDC7BFE00500697 /* instagram_icon.png in Resources */,
+				4AD49A191FF12C670095DD5C /* others_01.JPG in Resources */,
+				4AD49A0D1FF12C670095DD5C /* NightDive_02.JPG in Resources */,
+				4AD499EE1FF12C670095DD5C /* SP_DigitalUWPhoto_02.JPG in Resources */,
+				4AD49A051FF12C670095DD5C /* North_01.JPG in Resources */,
+				CEF515261FDC2FAE00A3F028 /* dolphinicon.png in Resources */,
+				4AD499F21FF12C670095DD5C /* SP_DigitalUWPhoto_01.JPG in Resources */,
+				4AD499F01FF12C670095DD5C /* SP_DeepDiver_02.JPG in Resources */,
+				4AD499F61FF12C670095DD5C /* SP_EFR_02.JPG in Resources */,
+				4AD499ED1FF12C670095DD5C /* SP_Wreck_02.JPG in Resources */,
+				4AD49A0A1FF12C670095DD5C /* DeepSouth_01.JPG in Resources */,
+				4AD49A091FF12C670095DD5C /* DeepSouth_02.JPG in Resources */,
+				4AFB30C91FDC7BFE00500697 /* dial_icon.png in Resources */,
+				4A1CB7421FCB47A100F65371 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		282E14C29DED39AF92F5BCF6 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Go Dive Red Sea-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		4AD499AE1FEFCCF60095DD5C /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Fabric/run\" 9ecb8f385c4c465079c78625e63ef9a6b00ccdc9 ed8942980194244afc856e208451b1645295143715da4c9e71061e82365f0a70";
+		};
+		DD3C88B64A703BE4A2A4B426 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Go Dive Red Sea/Pods-Go Dive Red Sea-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/GoogleToolboxForMac/GoogleToolboxForMac.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleToolboxForMac.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Go Dive Red Sea/Pods-Go Dive Red Sea-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E1DDE967B0983B64A2AD23CD /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Go Dive Red Sea/Pods-Go Dive Red Sea-resources.sh",
+				"${PODS_ROOT}/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Go Dive Red Sea/Pods-Go Dive Red Sea-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4A1CB7331FCB47A100F65371 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CEF515281FDC326100A3F028 /* SubProgramsViewController.swift in Sources */,
+				4A1CB73F1FCB47A100F65371 /* GetToUsViewController.swift in Sources */,
+				CEF5152A1FDC425100A3F028 /* SubProgramViewController.swift in Sources */,
+				4A1CB73B1FCB47A100F65371 /* AppDelegate.swift in Sources */,
+				4A6005FF1FCBEEBF00CC43A5 /* ContactUsViewController.swift in Sources */,
+				4A6005FD1FCBEE7A00CC43A5 /* BookingViewController.swift in Sources */,
+				CEF515241FDC2BEB00A3F028 /* CustomCell.swift in Sources */,
+				4A1CB73D1FCB47A100F65371 /* ProgramsViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		4A1CB7401FCB47A100F65371 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4A1CB7411FCB47A100F65371 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		4A1CB7451FCB47A100F65371 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4A1CB7461FCB47A100F65371 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		4A1CB7491FCB47A200F65371 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		4A1CB74A1FCB47A200F65371 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4A1CB74C1FCB47A200F65371 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 33FA73E58AA254635A7391F1 /* Pods-Go Dive Red Sea.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 98K88E25XY;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
+				INFOPLIST_FILE = "Go Dive Red Sea/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.saradivers.godiveredsea;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		4A1CB74D1FCB47A200F65371 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = ADA7AE5328A25910CE116CD2 /* Pods-Go Dive Red Sea.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 98K88E25XY;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
+				INFOPLIST_FILE = "Go Dive Red Sea/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.saradivers.godiveredsea;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4A1CB7321FCB47A100F65371 /* Build configuration list for PBXProject "Go Dive Red Sea" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4A1CB7491FCB47A200F65371 /* Debug */,
+				4A1CB74A1FCB47A200F65371 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4A1CB74B1FCB47A200F65371 /* Build configuration list for PBXNativeTarget "Go Dive Red Sea" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4A1CB74C1FCB47A200F65371 /* Debug */,
+				4A1CB74D1FCB47A200F65371 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4A1CB72F1FCB47A100F65371 /* Project object */;
+}
